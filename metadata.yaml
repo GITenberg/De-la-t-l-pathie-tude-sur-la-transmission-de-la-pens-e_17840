@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7636'
     url: http://www.gutenberg.org/2009/agents/7636
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17840#De-la-t-l-pathie-tude-sur-la-transmission-de-la-pens-e
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - FR Occultisme
