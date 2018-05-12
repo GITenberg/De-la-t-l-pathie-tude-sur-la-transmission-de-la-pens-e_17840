@@ -1,0 +1,30 @@
+_repo: De-la-t-l-pathie-tude-sur-la-transmission-de-la-pens-e_17840
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hureau, Émile
+    alias: Hureau, Emile
+    birthdate: 1877
+    deathdate: 1922
+    gutenberg_agent_id: '7636'
+    url: http://www.gutenberg.org/2009/agents/7636
+description: ''
+gutenberg_bookshelf:
+- FR Sciences et Techniques
+- FR Occultisme
+gutenberg_issued: '2006-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17840'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Telepathy'
+title: 'De la télépathie: Étude sur la transmission de la pensée'
+url: http://www.gutenberg.org/ebooks/17840
